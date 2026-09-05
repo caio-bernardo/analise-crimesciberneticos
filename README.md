@@ -29,3 +29,7 @@ O conjunto foi modificado para a aplicação de algoritmos de aprendizado de má
 - [Caio Bernardo](https://github.com/caio-bernardo)
 - [Lucas Neves](https://github.com/fatorarpolinomio)
 - [Willian Farias](https://github.com/willianjsf)
+
+## Licença
+
+[CC0 1.0 Universal License](LICENSE) &copy;
